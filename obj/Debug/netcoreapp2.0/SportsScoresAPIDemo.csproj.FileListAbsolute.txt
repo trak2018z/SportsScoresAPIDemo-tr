@@ -1,0 +1,11 @@
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\bin\Debug\netcoreapp2.0\SportsScoresAPIDemo.deps.json
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\bin\Debug\netcoreapp2.0\SportsScoresAPIDemo.runtimeconfig.json
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\bin\Debug\netcoreapp2.0\SportsScoresAPIDemo.runtimeconfig.dev.json
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\bin\Debug\netcoreapp2.0\SportsScoresAPIDemo.dll
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\bin\Debug\netcoreapp2.0\SportsScoresAPIDemo.pdb
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\obj\Debug\netcoreapp2.0\SportsScoresAPIDemo.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\obj\Debug\netcoreapp2.0\SportsScoresAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\obj\Debug\netcoreapp2.0\SportsScoresAPIDemo.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\obj\Debug\netcoreapp2.0\SportsScoresAPIDemo.AssemblyInfo.cs
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\obj\Debug\netcoreapp2.0\SportsScoresAPIDemo.dll
+C:\Users\Mateusz\Source\Repos\SportsScoresAPIDemo\SportsScoresAPIDemo\obj\Debug\netcoreapp2.0\SportsScoresAPIDemo.pdb
